@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "no-ip-cloud-flare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Machado",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "moment": "^2.30.1"
+  }
+}
